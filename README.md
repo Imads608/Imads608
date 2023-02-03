@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Imads608
-- I’m interested in Full Stack Software Development and building Scalable Applications using Docker and Kubernetes
-- I’m looking for any help to collaborate on my application PokeHub which is a clone of Pokemon Showdown.
+
 
 **Languages**
 
@@ -12,7 +10,6 @@
 
 - Next.js
 - Nest.js
-- ASP.NET Core
 
 **Deployment and DevOps**
 
@@ -21,8 +18,6 @@ Docker and Kubernetes
 **Tooling**
 
 Nx
-
-Also interested in collaborating on any other projects. Feel free to reach out.
 
 <!---
 Imads608/Imads608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
